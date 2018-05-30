@@ -1,0 +1,23 @@
+{
+  "name": "fix-timezone",
+  "version": "1.0.0",
+  "description": "fix timezone",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/fixTimezone.git"
+  },
+  "keywords": [
+    "fix",
+    "timezone"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/fixTimezone/issues"
+  },
+  "homepage": "https://github.com/gavinning/fixTimezone#readme"
+}
